@@ -1,0 +1,37 @@
+# ==============================
+# Core / Allgemein
+# ==============================
+
+numpy
+pandas
+scikit-learn
+
+# ==============================
+# Deep Learning Framework
+# ==============================
+
+torch
+torchvision
+timm
+
+# ==============================
+# Image Processing & Augmentation
+# ==============================
+
+Pillow
+opencv-python
+albumentations
+
+# ==============================
+# Training & Evaluation
+# ==============================
+
+tqdm
+matplotlib
+seaborn
+
+# ==============================
+# Utilities
+# ==============================
+
+pyyaml
