@@ -2,15 +2,15 @@
 # Core / Allgemein
 # ==============================
 
-numpy==2.2.6
-pandas==2.3.3
-scikit-learn==1.7.1
+numpy
+pandas
+scikit-learn
 
 # ==============================
 # Deep Learning Framework
 # ==============================
 
-torch==2.9.1
+torch
 torchvision
 timm
 
@@ -33,5 +33,6 @@ seaborn
 # ==============================
 # Utilities
 # ==============================
+
 
 pyyaml
