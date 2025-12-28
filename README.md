@@ -4,7 +4,7 @@ Projektarbeit Machine Learning / Deep Learning - Gruppe 7
 ### In Google Colab mit Github arbeiten
 
 * Beispiel ohne Speicherung in Google Drive, sondern direkt in Github, Colab wird nur als Entwicklungsumgebung genutzt
-* Voraussetzung: Github Account (Schritt 1 und 2) + Colaborator im Github Repo (Schritt 3)
+* **Voraussetzung**: ab Schritt 3 wird  ein Github Account benötigt + Colaborator-Berechtigung im Github Repo
 
 1.	Datei -> Notebook öffnen
 
